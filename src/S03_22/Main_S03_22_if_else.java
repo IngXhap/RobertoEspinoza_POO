@@ -10,7 +10,7 @@ package S03_22;
  
  
 @author kanne*/
-public class Main_S03_22 {
+public class Main_S03_22_if_else {
 
     /*
      
