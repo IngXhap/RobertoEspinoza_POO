@@ -9,7 +9,7 @@ package S03_22;
  *
  * @author kanne
  */
-public class Main_S03_22_ {
+public class Main_S03_22_DoWhile {
 
     /**
      * @param args the command line arguments
