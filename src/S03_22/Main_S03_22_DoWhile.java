@@ -16,6 +16,9 @@ public class Main_S03_22_DoWhile {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        int a = 100;
+      do {
+          System.out.println("hola");} while (a == 200);}
     }
     
-}
+
